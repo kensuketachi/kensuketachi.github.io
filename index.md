@@ -1,4 +1,4 @@
-[プロフィール写真](ANC 001)
+[プロフィール写真](ANC 001.png)
 
 # About
 kensuketachi
